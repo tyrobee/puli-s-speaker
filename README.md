@@ -1,6 +1,7 @@
 # puli-s-speaker
 A Powerful 24W bluetooth speaker with passive radiators.
 
+All this started from the rigby meme of him holding the speaker which was giving retro vibe and i wanted to get one so i started working on it to make one on my own and the rest is history
 
 ## Schematics
 
